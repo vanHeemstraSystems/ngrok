@@ -5,6 +5,8 @@ Based on "NGRok" at https://ngrok.com/
 
 Based on "Getting Started" at https://dashboard.ngrok.com/get-started/setup/windows
 
+Based on "Doppler and Secrets Management" at https://www.gitpod.io/blog/securely-manage-development-secrets-with-doppler-and-gitpod
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
